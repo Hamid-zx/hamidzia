@@ -49,6 +49,14 @@ export const PROJECTS = [
     href: "https://vastuspaze-by-hamidzia.netlify.app/",
   },
   {
+    title: "Streamerzz",
+    image: project1,
+    description:
+      "Developed a fully-responsive SaaS landing page for Streamer, leveraging React.js, Tailwind CSS, and Framer Motion. The platform optimizes streaming performance and provides real-time analytics for gamers, ensuring a seamless and dynamic user experience.",
+    technologies: ["HTML", "CSS", "React.js", "TailwindCSS", "Framer-Motion"],
+    href: "https://streamerzz-by-hamidzia.vercel.app/",
+  },
+  {
     title: "My Portfolio",
     image: project3,
     description:
