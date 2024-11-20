@@ -41,6 +41,14 @@ export const PROJECTS = [
     href: "https://restaura-by-hamid.vercel.app/",
   },
   {
+    title: "Fashion Ecommerce",
+    image: project4,
+    description:
+      "A modern fashion e-commerce website crafted with React and Tailwind CSS, offering seamless shopping with features like a dynamic cart, advanced product filters, and distinct categories for easy navigation. Its responsive design ensures a smooth and engaging user experience for all.",
+    technologies: ["HTML", "CSS", "React.js", "TailwindCSS", "typescript"],
+    href: "https://fashion-ecommerce-by-hamidzia.vercel.app/",
+  },
+  {
     title: "Vastuspaze",
     image: project2,
     description:
