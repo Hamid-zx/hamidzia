@@ -29,7 +29,7 @@ export const PROJECTS = [
     image: project4,
     description:
       "A modern fashion e-commerce website crafted with React and Tailwind CSS, offering seamless shopping with features like a dynamic cart, advanced product filters, and distinct categories for easy navigation. Its responsive design ensures a smooth and engaging user experience for all.",
-    technologies: ["HTML", "CSS", "React.js", "TailwindCSS", "typescript"],
+    technologies: ["HTML", "CSS", "React.js", "TailwindCSS", "Typescript"],
     href: "https://fashion-ecommerce-by-hamidzia.vercel.app/",
   },
   {
@@ -37,7 +37,7 @@ export const PROJECTS = [
     image: project2,
     description:
       "A modern and responsive real estate landing page built using Next.js and Tailwind CSS, offering an engaging user experience and a clean, professional layout to captivate visitors, Showcasing various properties with images, names, prices, and ratings, And Highlights additional services offered by the real estate company",
-    technologies: ["HTML", "CSS", "React.js", "TailwindCSS", "Framer-Motion"],
+    technologies: ["HTML", "CSS", "Next.js", "TailwindCSS"],
     href: "https://reales-by-hamidzia.netlify.app/",
   },
   {
